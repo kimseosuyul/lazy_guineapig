@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "noto-sans";
+    src: url("./fonts/NotoSans.ttf");
+}
+
+@font-face {
+    font-family: "Freesentation";
+    src: url("./fonts/Freesentation-5Medium.ttf")format('truetype');
+}
+
+@font-face {
+    font-family: "pop";
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/ONE-Mobile-POP.woff') format('woff');
+}
+
+@font-face {
+    font-family: "Pretendard-Medium";
+    src: url('./fonts/Pretendard-Medium.ttf');
+}
